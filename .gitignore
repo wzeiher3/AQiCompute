@@ -4,3 +4,5 @@ AQI-IoT-Thing.public.key
 ece-4150-key.pem
 ECE4813-Lab3.pdf
 
+aqi-django-app/env.py
+
